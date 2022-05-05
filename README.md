@@ -19,7 +19,6 @@ Around the head of this character are four small rotating planets. In the center
 
 ### Third job
 
-["The God of Peace and Dead Archaeologist"]
-(https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86143322425923005940680517055148775215163601153926590747261820765996417286145)
+["The God of Peace and Dead Archaeologist"](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86143322425923005940680517055148775215163601153926590747261820765996417286145)
 The protagonist Thomas Morana is the best special agent in the Paranormal Archaeological Intelligence (PAI) people like him were sent to the most unique and supernatural places like the Skeleton Lake, the Devil's Tower and the Egyptian pyramids in the vicinity of which he spent five years. He coped with all the tasks flawlessly and found a lot of artifacts and historical values, some of them were not just objects of the then world, but also carried a special power. Before he got to PAI he was in the supreme membership of the mysteries and looked after the ultra-secure archive of the Vatican, as a child he grew up without parents, he was raised and raised by the church employees of the Vaticans, so long before he got into the PAR he already knew many secrets and secrets. But one day he flew to one of the next tasks which was his last. He went to an uncharted island there and got an alliance with the God of Peace after which Morano turned into a living dead. The God of Peace endowed him with strong abilities thanks to which he can resist entire countries and armies dispelling the spirit of peace over the planet.
 

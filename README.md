@@ -2,8 +2,8 @@
 
 ## STEP 1 
 Stories Box Comics Project for help Ukraine 
-The first wave of the NFT collection is presented to help the Ukrainian army and defend Ukraine. This collection features 33 works reflecting our opposition to the aggression of the russian invaders.
-More details about each work can be found below.
+The first wave of the NFT collection is presented to help the Ukrainian army and defend Ukraine. This collection features 33 works reflecting our opposition to the aggression of the russian invaders. All funds raised from NFT sales will go to the "Come Back Alive" fund.
+More details about each work can be found below. 
      
 ### First job
 
@@ -21,4 +21,18 @@ Around the head of this character are four small rotating planets. In the center
 
 ["The God of Peace and Dead Archaeologist"](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86143322425923005940680517055148775215163601153926590747261820765996417286145)
 The protagonist Thomas Morana is the best special agent in the Paranormal Archaeological Intelligence (PAI) people like him were sent to the most unique and supernatural places like the Skeleton Lake, the Devil's Tower and the Egyptian pyramids in the vicinity of which he spent five years. He coped with all the tasks flawlessly and found a lot of artifacts and historical values, some of them were not just objects of the then world, but also carried a special power. Before he got to PAI he was in the supreme membership of the mysteries and looked after the ultra-secure archive of the Vatican, as a child he grew up without parents, he was raised and raised by the church employees of the Vaticans, so long before he got into the PAR he already knew many secrets and secrets. But one day he flew to one of the next tasks which was his last. He went to an uncharted island there and got an alliance with the God of Peace after which Morano turned into a living dead. The God of Peace endowed him with strong abilities thanks to which he can resist entire countries and armies dispelling the spirit of peace over the planet.
+
+## Step 2
+
+The second stage of development is the creation of new NFTs in the amount of 3.425 copies. All those who have purchased our works will be able to participate in subsequent projects and universes. Profits from sales will be allocated to the "Come Back Alive" fund and to all residents of the country who have suffered damage or need financial support. We are also proud and believe that some funds should be directed to our Ukrainian Armed Forces who, day and night, at the cost of their own lives protect the rights, interests of the population and the territory of the Ukrainian state.
+
+## Step 3
+
+We are working on the development of a blockchain game that will be presented in the future. This version of the game will be presented based on historical events that will be of interest to all age groups. The game will be presented in the form of quests and puzzles that will expand knowledge about the history of Ukraine and the whole world and also provide a platform for expanding horizons and mental abilities. In view of the gaming process of learning, the historical-progressive idea becomes fascinating and unique. Every person in the 21st century should know their history.
+We will connect the best historians of the world to put together the puzzle of world history, since all people and states have some kind of thin thread - all people are interconnected. With ignorance and not studying one state or nation we get the wrong picture of the worldview.
+It's great to travel the world and plunge into different eras and centuries with just a phone and our games in hand. Just by playing and exploring the world there will be an opportunity to earn and exchange in-game tokens.
+    In addition to the development of a blockchain game, we are going to create a marketplace platform where our and other works of comics artists from different parts of the world will be presented. This is a great idea for raising this type of art intertwined with literature to a new level of development and reader interest. We guarantee fascinating stories that will captivate their connoisseurs - new interesting characters and presentation in a new digital format of book and magazine illustrations.
+We cannot miss the opportunity to help Ukraine – every 1.5% sold from NFT comics will be donated to Ukrainian funds.
+
+
 
